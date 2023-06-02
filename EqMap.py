@@ -1,3 +1,6 @@
+#直近100件の地震を地図に表示するプログラム
+#radiusには JMA Magnitude と断層の長さの関係式を使用。
+
 import requests
 import folium
 e = 2.71 
